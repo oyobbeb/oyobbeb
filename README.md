@@ -1,6 +1,6 @@
-Software engineer at Polygom, building self-service photo booths: a Tauri kiosk shell on Windows, a Rust capture core, and Raspberry Pi camera arrays for 3D capture.
+Software engineer who thinks in systems. I look for the structure behind a problem (boundaries, data flow, where the truth lives) and fix it at the root, not at the symptom.
 
-Most of my open-source work starts from a bug we hit on real hardware.
+I work across layers: Rust and TypeScript, desktop and web, servers, and the hardware underneath.
 
 ### Open source
 

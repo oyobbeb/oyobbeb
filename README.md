@@ -1,6 +1,6 @@
-Software engineer who thinks in systems. I look for the structure behind a problem (boundaries, data flow, where the truth lives) and fix it at the root, not at the symptom.
+I read systems, not just code — and fix problems where they begin.
 
-I work across layers: Rust and TypeScript, desktop and web, servers, and the hardware underneath.
+Across the stack, from servers down to the hardware.
 
 ### Open source
 
